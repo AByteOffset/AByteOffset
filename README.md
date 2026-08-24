@@ -1,9 +1,9 @@
 <h1>Hi, I'm Abhijeet👋</h1>
 
-<h3>Cybersecurity Professional | AI Security Builder | SOC, Cloud & Risk Automation</h3>
+<h3>Cybersecurity Professional | AI Security Builder | Endpoint Security, SOC and AI Automation</h3>
 
 <p>
-I’m a cybersecurity professional focused on security operations, cloud and identity security, vulnerability risk management,
+I’m a cybersecurity professional focused on Endpoint Security, security operations, cloud and identity security, vulnerability risk management,
 incident investigation, and AI-assisted analyst workflows.
 </p>
 
